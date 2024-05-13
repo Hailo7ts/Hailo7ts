@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [[https://cozy-squirrel-da5095.netlify.app/](https://cozy-squirrel-da5095.netlify.app/)](https://haileymartin.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://haileymartin.netlify.app/)
 
 - 📫 Reach out to me **hailo7ts@gmail.com**
 
