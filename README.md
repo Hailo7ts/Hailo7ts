@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Hailey!</h1>
 <h3 align="center">A passionate software engineer from Colorado</h3>
 
-- 🔭 I’m currently working on building a strong foundation in React [React-Projects](https://github.com/Hailo7ts/React-Projects)
+- 🔭 I’m currently working on a website for a local photographer
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning new ways to use **React**
 
 - 👨‍💻 All of my projects are available at (https://haileymartin.netlify.app/)
 
