@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (https://haileymartin.netlify.app/)
 
-- 📫 Reach out to me **hailo7ts@gmail.com**
+- 📫 Reach out to me **LinkedIn**
 
 - ⚡ Fun fact **I love working on art! Both digital and traditional.**
 
