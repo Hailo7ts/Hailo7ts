@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Paint Theory**
 
-- 🌱 I’m currently learning **EJS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://haileymartin.netlify.app/](https://haileymartin.netlify.app/)
 
