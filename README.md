@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hailey</h1>
-<h3 align="center">A friendly Software Engineer from Colorado</h3>
+<h3 align="center">A Software Engineer from Colorado coding solutions to help people!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailo7ts&label=Profile%20views&color=0e75b6&style=flat" alt="hailo7ts" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/hailo7ts" target="blank"><img src="https://img.shields.io/twitter/follow/hailo7ts?logo=twitter&style=for-the-badge" alt="hailo7ts" /></a> </p>
 
-- 🔭 I’m currently working on **Paint Theory**
+- 🔭 I’m currently working on **ColorBridge**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently back in my roots with **Java**
 
 - 👨‍💻 All of my projects are available at [https://haileymartin.netlify.app/](https://haileymartin.netlify.app/)
 
 - 💬 Ask me about **what I'm currently reading! And the importance of MVC.**
 
-- 📫 How to reach me **on Linkedin**
+- 📫 How to reach me **[www.linkedin.com/in/hailey-martin-swe](www.linkedin.com/in/hailey-martin-swe)**
 
-- ⚡ Fun fact **I love working on art! Both digital and traditional.**
+- ⚡ Fun fact **I have an art degree and love working on art! Both digital and traditional.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
